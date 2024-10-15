@@ -1,5 +1,7 @@
 # Students-Result-Analysis
 The project focuses on exploring and visualizing various aspects of student performance, including factors like gender, parental education, marital status, and ethnic group.
+![image](https://github.com/user-attachments/assets/6a3695dc-54f9-41bd-b46a-3b1424765cd5)
+
 
 It includes the following steps:
 
